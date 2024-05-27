@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+}
+
+.container button {
+    display: block;
+    margin: 10px auto;
+}
+/* Adicionando suporte ao Chrome e Chrome para Android */
+.element {
+    filter: alpha(opacity=50); /* IE 5-7 */
+    opacity: 0.5; /* Padrão */
+}
